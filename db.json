@@ -1,0 +1,446 @@
+{
+	"amdCpu": [
+		{
+			"name": "AMD Threadripper 3970X",
+			"score": "96.19%",
+			"cpu": "Zen 2",
+			"ct": "32/64",
+			"bb": "3.7 / 4.5 GHz",
+			"power": "280W",
+			"price": "$1,899.99",
+			"id": "0"
+		},
+		{
+			"name": "AMD Threadripper 3960X",
+			"score": "96.13%",
+			"cpu": "Zen 2",
+			"ct": "24/48",
+			"bb": "3.8 / 4.5 GHz",
+			"power": "280W",
+			"price": "$1,299.99",
+			"id": "1"
+		},
+		{
+			"name": "AMD Threadripper 3990X",
+			"score": "95.76%",
+			"cpu": "Zen 2",
+			"ct": "64/128",
+			"bb": "2.9 / 4.3 GHz",
+			"power": "280W",
+			"price": "No price information",
+			"id": "2"
+		},
+		{
+			"name": "AMD Ryzen 9 3900X",
+			"score": "94.56%",
+			"cpu": "Zen 2",
+			"ct": "12/24",
+			"bb": "3.8 / 4.6 GHz",
+			"power": "105W",
+			"price": "$413",
+			"id": "3"
+		},
+		{
+			"name": "AMD Ryzen 9 3950X",
+			"score": "94.31%",
+			"cpu": "Zen 2",
+			"ct": "16/32",
+			"bb": "3.5 / 4.7 GHz",
+			"power": "105W",
+			"price": "$695",
+			"id": "4"
+		},
+		{
+			"name": "AMD Ryzen 9 3900",
+			"score": "94.12%",
+			"cpu": "Zen 2",
+			"ct": "12/24",
+			"bb": "3.1 / 4.3 GHz",
+			"power": "65W",
+			"price": "Not price information",
+			"id": "5"
+		},
+		{
+			"name": "AMD Ryzen 7 3700X",
+			"score": "93.56%",
+			"cpu": "Zen 2",
+			"ct": "8/16",
+			"bb": "3.6 / 4.4 GHz",
+			"power": "65W",
+			"price": "$273.47",
+			"id": "6"
+		},
+		{
+			"name": "AMD Ryzen 5 3600X",
+			"score": "91.23%",
+			"cpu": "Zen 2",
+			"ct": "6/12",
+			"bb": "3.8 / 4.4 GHz",
+			"power": "95W",
+			"price": "$219.99",
+			"id": "7"
+		},
+		{
+			"name": "AMD Ryzen 5 3600",
+			"score": "90.99%",
+			"cpu": "Zen 2",
+			"ct": "6/12",
+			"bb": "3.6 / 4.2 GHz",
+			"power": "65W",
+			"price": "$174.49",
+			"id": "8"
+		},
+		{
+			"name": "AMD Ryzen 3 3300X",
+			"score": "90.24%",
+			"cpu": "Zen 2",
+			"ct": "4/8",
+			"bb": "3.8 / 4.3 GHz",
+			"power": "65W",
+			"price": "No price information",
+			"id": "9"
+		},
+		{
+			"name": "AMD Ryzen 5 3500X",
+			"score": "88.06%",
+			"cpu": "Zen 2",
+			"ct": "6/6",
+			"bb": "3.6 / 4.1 GHz",
+			"power": "65W",
+			"price": "No price information",
+			"id": "10"
+		},
+		{
+			"name": "AMD Ryzen 7 2700X",
+			"score": "~",
+			"cpu": "Zen+",
+			"ct": "8/16",
+			"bb": "3.7 / 4.3 GHz",
+			"power": "105W",
+			"price": "$215.99",
+			"id": "11"
+		},
+		{
+			"name": "AMD Threadripper 2990WX (GM)",
+			"score": "81.35%",
+			"cpu": "Zen+",
+			"ct": "32/64",
+			"bb": "3.0 / 4.2 GHz",
+			"power": "250W",
+			"price": "$1,499.99",
+			"id": "12"
+		},
+		{
+			"name": "AMD Threadripper 2950X (GM)",
+			"score": "78.99%",
+			"cpu": "Zen +",
+			"ct": "16/32",
+			"bb": "3.5 / 4.4 GHz",
+			"power": "180W",
+			"price": "$786.99",
+			"id": "13"
+		},
+		{
+			"name": "AMD Threadripper 2970WX",
+			"score": "78.86%",
+			"cpu": "Zen +",
+			"ct": "24/48",
+			"bb": "3.0 / 4.2 GHz",
+			"power": "250W",
+			"price": "$922.50",
+			"id": "14"
+		},
+		{
+			"name": "AMD Ryzen 3 3100",
+			"score": "78.48%",
+			"cpu": "Zen 2",
+			"ct": "4/8",
+			"bb": "3.8 / 3.9 GHz",
+			"power": "65W",
+			"price": "No price information",
+			"id": "15"
+		},
+		{
+			"name": "AMD Ryzen 5 2600X",
+			"score": "78.25%",
+			"cpu": "Zen+",
+			"ct": "6/12",
+			"bb": "3.6 / 4.2 GHz",
+			"power": "95W",
+			"price": "$186.45",
+			"id": "16"
+		},
+		{
+			"name": "AMD Ryzen 7 2700",
+			"score": "~",
+			"cpu": "Zen+",
+			"ct": "8/16",
+			"bb": "3.2 / 4.1 GHz",
+			"power": "65W",
+			"price": "$211.11",
+			"id": "17"
+		},
+		{
+			"name": "AMD Threadripper 1900X (GM)",
+			"score": "~",
+			"cpu": "Zen",
+			"ct": "8/16",
+			"bb": "3.8 / 4.0 GHz",
+			"power": "180W",
+			"price": "$196.48",
+			"id": "18"
+		},
+		{
+			"name": "AMD Ryzen 5 2600",
+			"score": "~",
+			"cpu": "Zen+",
+			"ct": "6/12",
+			"bb": "3.4 / 3.9 GHz",
+			"power": "65W",
+			"price": "$144.99",
+			"id": "19"
+		},
+		{
+			"name": "AMD Threadripper 1950X (GM)",
+			"score": "~",
+			"cpu": "Zen",
+			"ct": "16/32",
+			"bb": "3.4 / 4.0 GHz",
+			"power": "180W",
+			"price": "$749",
+			"id": "20"
+		},
+		{
+			"name": "AMD Threadripper 1920X (GM)",
+			"score": "~",
+			"cpu": "Zen",
+			"ct": "12/24",
+			"bb": "3.5 / 4.0 GHz",
+			"power": "180W",
+			"price": "$307.57",
+			"id": "21"
+		},
+		{
+			"name": "AMD Ryzen 7 1800X",
+			"score": "~",
+			"cpu": "Zen",
+			"ct": "8/16",
+			"bb": "3.6 / 4.0 GHz",
+			"power": "95W",
+			"price": "$299.98",
+			"id": "22"
+		},
+		{
+			"name": "AMD Ryzen 7 1700X",
+			"score": "~",
+			"cpu": "Zen",
+			"ct": "8/16",
+			"bb": "3.8 / 3.9 GHz",
+			"power": "95W",
+			"price": "$320",
+			"id": "23"
+		},
+		{
+			"name": "AMD Ryzen 5 1600AF",
+			"score": "70.39%",
+			"cpu": "Zen +",
+			"ct": "6/12",
+			"bb": "3.2 / 3.6 GHz",
+			"power": "65W",
+			"price": "$160.24",
+			"id": "24"
+		},
+		{
+			"name": "AMD Ryzen 7 1700",
+			"score": "~",
+			"cpu": "Zen",
+			"ct": "8/16",
+			"bb": "3.0 / 3.8 GHz",
+			"power": "65W",
+			"price": "$329",
+			"id": "25"
+		},
+		{
+			"name": "AMD Ryzen 5 3400G",
+			"score": "68.04%",
+			"cpu": "Zen +",
+			"ct": "4/8",
+			"bb": "3.7 / 4.2 GHz",
+			"power": "65W",
+			"price": "$145.54",
+			"id": "26"
+		}
+	],
+    "amdGpu": [
+        {
+            "name": "AMD Radeon VII",
+            "score": "75.1%",
+            "gpu": "Vega 20",
+            "bb": "1400/1750 MHz",
+            "memory": "16GB HBM2",
+            "power": "300W",
+            "price": "$999",
+            "id": "0"
+        },
+        {
+            "name": "AMD Radeon RX 5700 XT",
+            "score": "72.3%",
+            "gpu": "Navi 10",
+            "bb": "1605/1905 MHz",
+            "memory": "8GB GDDR6",
+            "power": "225W",
+            "price": "$379.99",
+            "id": "1"
+        },
+        {
+            "name": "AMD Radeon RX 5700",
+            "score": "65.5%",
+            "gpu": "Navi 10",
+            "bb": "1465/1725 MHz",
+            "memory": "8GB GDDR6",
+            "power": "185W",
+            "price": "$399.99",
+            "id": "2"
+        },
+        {
+            "name": "AMD Radeon RX Vega 64",
+            "score": "62.2%",
+            "gpu": "Vega 10",
+            "bb": "1274/1546 MHz",
+            "memory": "8GB HBM2",
+            "power": "295W",
+            "price": "$769",
+            "id": "3"
+        },
+        {
+            "name": "AMD Radeon RX 5600 XT",
+            "score": "59.4%",
+            "gpu": "Navi 10",
+            "bb": "?/1615 MHz",
+            "memory": "6GB GDDR6",
+            "power": "150W",
+            "price": "No price information",
+            "id": "4"
+        },
+        {
+            "name": "AMD Radeon RX Vega 56",
+            "score": "54.9%",
+            "gpu": "Vega 10",
+            "bb": "1156/1471 MHz",
+            "memory": "8GB HBM2",
+            "power": "210W",
+            "price": "$449",
+            "id": "5"
+        },
+        {
+            "name": "AMD Radeon R9 Fury X",
+            "score": "42.0%",
+            "gpu": "Fiji",
+            "bb": "1050 MHz",
+            "memory": "4GB HBM",
+            "power": "275W",
+            "price": "No price information",
+            "id": "6"
+        },
+        {
+            "name": "AMD Radeon RX 590",
+            "score": "41.6%",
+            "gpu": "Polaris 30",
+            "bb": "1469/1545 MHz",
+            "memory": "8GB GDDR5",
+            "power": "225W",
+            "price": "$229.99",
+            "id": "7"
+        },
+        {
+            "name": "AMD Radeon RX 5500 XT 8GB",
+            "score": "40.5%",
+            "gpu": "Navi 14",
+            "bb": "?/1717 MHz",
+            "memory": "8GB GDDR6",
+            "power": "130W",
+            "price": "$199.99",
+            "id": "8"
+        },
+        {
+            "name": "AMD Radeon RX 580 8GB",
+            "score": "38.2%",
+            "gpu": "Polaris 20",
+            "bb": "1257/1340 MHz",
+            "memory": "8GB GDDR5",
+            "power": "185W",
+            "price": "$232",
+            "id": "9"
+        },
+        {
+            "name": "AMD Radeon RX 5500 XT 4GB",
+            "score": "36.4%",
+            "gpu": "Navi 14",
+            "bb": "?/1717 MHz",
+            "memory": "4GB GDDR6",
+            "power": "130W",
+            "price": "No price information",
+            "id": "10"
+        },
+        {
+            "name": "AMD Radeon R9 390",
+            "score": "34.9%",
+            "gpu": "Hawaii",
+            "bb": "1000 MHz",
+            "memory": "8GB GDDR5",
+            "power": "275W",
+            "price": "$537",
+            "id": "11"
+        },
+        {
+            "name": "AMD Radeon RX 570 4GB",
+            "score": "32.4%",
+            "gpu": "Polaris 20",
+            "bb": "1168/1244 MHz",
+            "memory": "4GB GDDR5",
+            "power": "150W",
+            "price": "$299.99",
+            "id": "12"
+        },
+        {
+            "name": "AMD Radeon RX 560 4GB",
+            "score": "16.1%",
+            "gpu": "Polaris 21",
+            "bb": "1175/1275 MHz",
+            "memory": "4GB GDDR5",
+            "power": "80W",
+            "price": "$119.99",
+            "id": "13"
+        },
+        {
+            "name": "AMD Radeon RX 550",
+            "score": "10.0%",
+            "gpu": "Polaris 22",
+            "bb": "1100/1183 MHz",
+            "memory": "4GB GDDR5",
+            "power": "50W",
+            "price": "$109.99",
+            "id": "14"
+        },
+        {
+            "name": "AMD Vega 11 (R5 3400G)",
+            "score": "6.8%",
+            "gpu": "Vega 11",
+            "bb": "1400 MHz",
+            "memory": "2x8GB DDR4-3200",
+            "power": "N/A",
+            "price": "Not price information",
+            "id": "15"
+        },
+        {
+            "name": "AMD Vega 8 (R3 3200G)",
+            "score": "6.1%",
+            "gpu": "Vega 8",
+            "bb": "1250 MHz",
+            "memory": "2x8GB DDR4-3200",
+            "power": "N/A",
+            "price": "Not price information",
+            "id": "16"
+        }
+    ]
+}
